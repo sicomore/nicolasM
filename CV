@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!-- <html lang="fr"> -->
+<head>
+  <meta charset="UTF-8">
+
+  <title>CV de Nicolas Moreau</title>
+  <meta name="description" content="Venez découvrir le parcours professionnel de Nicolas Moreau, développeur web spécialisé en PHP Orienté Objet et Symfony.">
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=" crossorigin="anonymous" /> -->
+  <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css">
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway" rel="stylesheet"> -->
+  <link rel="stylesheet" href="fonts/Montserrat">
+
+  <link rel="stylesheet" href="css/style-cv.css">
+  <script type="text/javascript" src="http://localhost:35729/livereload.js"></script>
+
+
+</head>
+
+<body>
+  <div class="uptotop">
+    <a href="#coordonnees">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    </a>
+  </div>
+
+  <header>
+    <div id="identite">
+      <div class="container">
+        <div id="coordonnees">
+          <h2>Nicolas MOREAU</h2>
+          <p>30000 Nîmes</p>
+          <p>Téléphone : 06.75.56.94.61</p>
+          <p><a href="mailto:nicolasmoreau.meb@gmail.com" title="Bonne initiative ! N'hésitez pas cliquer ! :)"><i class="fa fa-envelope" aria-hidden="true">&nbsp;</i>nicolasmoreau.meb@gmail.com</a>
+          </p>
+
+          <ul id="social-top">
+            <li><a href="https://www.facebook.com/nicolasmoreaumeb" title="Accès à mon profil Facebook" target="_blank"><i class="fa fa-facebook">&nbsp;</i></a></li>
+            <li><a href="https://www.linkedin.com/in/nicolasmoreaumeb/" title="Accès à mon profil LinkedIn" target="_blank"><i class="fa fa-linkedin" aria-hidden="true">&nbsp;</i></a></li>
+            <li><a href="https://www.viadeo.com/p/00233nmnzehpx2r" title="Accès à mon profil Viadeo" target="_blank"><i class="fa fa-viadeo" aria-hidden="true">&nbsp;</i></a></li>
+            <li><a href="https://twitter.com/nicomomeb" title="Accès à mon profil Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @nicomomeb</a></li>
+          </ul>
+        </div>
+
+        <div id="photo-id">
+          <img src="images/photo-id-cv.jpeg" alt="Photo identité Nicolas Moreau">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav>
+    <div class="container">
+      <ul>
+        <li><a href="#competences">Compétences</a></li>
+        <li><a href="#experiences">Expériences</a></li>
+        <li><a href="#formations">Formations</a></li>
+        <li><a href="#stages">Stages</a></li>
+        <li><a href="#langues">Langues</a></li>
+        <li><a href="#interets">Centres d'intérêt</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div id="burger">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+  </nav>
+
+  <div id="titre">
+    <div class="container">
+      <h1>Développeur back-end<br>PHP Symfony</h1>
+      <h4>savoir être au service du savoir faire</h4>
+    </div>
+  </div>
+
+  <aside id="competences">
+    <div class="container">
+      <h3>Compétences digitales</h3>
+      <ul>
+        <li class="xl">PHP o.o.</li>
+        <li class="xl">Symfony</li>
+        <li class="xl">SQL</li>
+        <li class="xl">Architecture MVC</li>
+        <li class="l">HTML5/CSS3</li>
+        <li class="l">Bootstrap</li>
+        <li class="l">Jquery</li>
+        <li class="l">Javascript</li>
+        <li class="l">AJAX</li>
+        <li class="l">XML</li>
+        <li class="l">GIT-GITHub</li>
+        <li class="m">WordPress</li>
+        <li class="xs">Drupal</li>
+        <li class="xs">Joomla</li>
+        <li class="s">Photoshop CS5</li>
+        <li class="m">Management de projets</li>
+        <li class="s">UML</li>
+        <li class="l">Stratégie SEM (SEO, SEA, SMO)</li>
+        <li class="xs">Scrum</li>
+        <li class="xs">CRM</li>
+        <li class="l">MS Office</li>
+        <li class="xs">MS Project</li>
+      </ul>
+    </div>
+  </aside>
+
+  <main>
+    <section id="realisations">
+      <div class="container">
+        <h3>Projets réalisés</h3>
+        <article id="c2mh">
+          Site d'agence événementielle
+        </article>
+        <article id="miss-nats">
+          <h1>plugin Firefox livereload (Tod Wolson)</h1>
+          Site d'artiste peintre
+        </article>
+      </div>
+    </section>
+
+
+    <section id="experiences">
+      <div class="container">
+        <h3>Expériences professionnelles</h3>
+
+        <article id="culturebd">
+          <div class="annee">
+            <h4>2016</h4>
+          </div>
+          <div class="lieu">
+            <h4>Mission référencement naturel</h4>
+            <h5>culturebd.com</h5>
+            <p>Site éditorial et événementiel de bandes dessinées</p>
+            <ul>
+              <li>Audit technique et contenu</li>
+              <li>Analyse flux trafic</li>
+              <li>Recommandations techniques, netlinking, social strategy</li>
+              <li>Formation rédacteurs et livret bonne pratique</li>
+              <li>Tableau de bord de suivi mensuel et trimestriel</li>
+            </ul>
+          </div>
+        </article><!--
+
+        --><article id="novacel">
+        <div class="annee">
+          <h4>2008<br/>2017</h4>
+        </div>
+        <div class="lieu">
+          <h4>Responsable marketing et technique contactologie, et marketing digital</h4>
+          <h5>Laboratoire NOVACEL OPHTALMIQUE</h5>
+          <p>Laboratoire de fabrication de verres ophtalmiques, lentilles de contact (CA : 55M€) (500 salariés)</p>
+          <ul>
+            <li>Mise en place division contactologie (stratégie marketing, analyse marché, élaboration identité, planning lancements gamme)</li>
+            <li>Conduite projets digitaux (prise de commandes, outil d'analyses)</li>
+            <li>Webmarketing (refonte/administration site web, community management)</li>
+            <li>Marketing opérationnel (print et web)</li>
+            <li>Mise en place campagnes de promotion</li>
+          </ul>
+        </div>
+      </article><!--
+
+      --><article id="ophtalmic">
+      <div class="annee">
+        <h4>2003<br/>2008</h4>
+      </div>
+      <div class="lieu">
+        <h4>Chef de produits</h4>
+        <h5>Laboratoire OPHTALMIC</h5>
+        <p>Laboratoire de distribution de verres ophtalmiques, lentilles de contact (CA : 45 M€)(140 salariés)</p>
+        <ul>
+          <li>Marketing et communication (lentilles de contact, verres ophtalmiques, compléments alimentaires)</li>
+          <li>Etablissement / gestion plan-presse</li>
+          <li>Organisation d’événements</li>
+          <li>Assistance technique aux professionnels</li>
+        </ul>
+        <p>Progression de 5 à 12% du marché français en lentilles à renouvellement fréquent</p>
+      </div>
+    </article><!--
+
+    --><article id="eurocontact">
+    <div class="annee">
+      <h4>2002<br/>2003</h4>
+    </div>
+    <div class="lieu">
+      <h4>Responsable du service relation aux professionnels</h4>
+      <h5>Laboratoire EUROCONTACT</h5>
+      <p>Plateforme de distribution de lentilles de contact (50 salariés)</p>
+      <ul>
+        <li>Marketing et communication (lentilles de contact)</li>
+        <li>Assistance technique/Formation des professionnels</li>
+        <li>Recherche et validation de nouveaux produits (E.U. & G.B.)</li>
+      </ul>
+    </div>
+  </article><!--
+
+  --><article id="bourgeois">
+  <div class="annee">
+    <h4>1999<br/>2001</h4>
+  </div>
+  <div class="lieu">
+    <h4>Optométriste-adaptateur</h4>
+    <h5>Laboratoire BOURGEOIS CONTACT</h5>
+    <p>Laboratoire de fabrication de verres ophtalmiques, lentilles de contact (400 salariés)</p>
+    <ul>
+      <li>Assistance technique aux professionnels (opticiens & ophtalmos)</li>
+    </ul>
+  </div>
+</article><!--
+
+--><article id="ysoptic">
+<div class="annee">
+  <h4>1996<br/>1999</h4>
+</div>
+<div class="lieu">
+  <h4>Opticien-optométriste-adaptateur</h4>
+  <h5>Centre YSOPTIC</h5>
+  <p>Centre d’adaptation de lentilles de contact</p>
+  <ul>
+    <li>Adaptation de lentilles de contact en cabinet privé</li>
+  </ul>
+</div>
+</article>
+
+</div>
+</section>
+
+<section id="formations">
+  <div class="container">
+    <h3>Formations</h3>
+    <article id="mba">
+      <div class="annee">
+        <h4>2014</h4>
+      </div>
+      <div class="lieu">
+        <h4>MBA « e-business » – Diplôme Niveau 1 certifié par l’Etat</h4>
+        <h5>MBA-ESG – Pôle ESG (Paris) – Bac+5</h5>
+        <ul>
+          <li>Management de projets, SEM, langages web, UX mobile, ...</li>
+          <li>Google Online Marketing Challenge 2014 (Adwords Business)<br/>Capitaine d’équipe demi-finaliste 32ème position sur 2541</li>
+          <li>Thèse pro : L’adoption des IOT par les professionnels de Santé (en partenariat avec <a href="http://http://umanlife.com">Umanlife®</a>)</li>
+        </ul>
+      </div>
+    </article><!--
+
+    --><article id="orsay">
+    <div class="annee">
+      <h4>1995</h4>
+    </div>
+    <div class="lieu" >
+      <h4>Maîtrise « Optométrie, Optique de contact »</h4>
+      <h5>Université Paris XI (Orsay) – Bac+4</h5>
+    </div>
+  </article>
+</div>
+</section>
+
+<section id="stages">
+  <div class="container">
+    <h3>Stages</h3>
+    <article id="cbd">
+      <div class="annee">
+        <h4>2014</h4>
+      </div>
+      <div class="lieu">
+        <h4>Stage de MBA "e-business"</h4>
+        <h5>culturebd.com (3 mois) (Paris)</h5>
+        <ul>
+          <li>Site rédactionnel et événementiel de bandes dessinées</li>
+          <li>Mise en place stratégie d’optimisation pour le référencement naturel</li>
+        </ul>
+      </div>
+    </article><!--
+
+    --><article id="nova">
+    <div class="annee">
+      <h4>2014</h4>
+    </div>
+    <div class="lieu">
+      <h4>Stage de MBA e-business</h4>
+      <h5>Novacel Ophtalmique (5 mois) (Château-Thierry)</h5>
+      <ul>
+        <li>Management d’un projet digital de prise de commande</li>
+        <li>Refonte du site internet</li>
+        <li>Community management de la société</li>
+        <li>Création outil statistique des ventes</li>
+      </ul>
+    </div>
+  </article><!--
+
+  --><article id="craig">
+  <div class="annee">
+    <h4>1995</h4>
+  </div>
+  <div class="lieu">
+    <h4>Stage de Maitrise Optométrie</h4>
+    <h5>Craig Butler Optometrist (6 mois) (Perth – Australie)</h5>
+    <p>Cabinet d’optométrie comportementale et contactologie</p>
+  </div>
+</article>
+
+</div>
+</section>
+
+<section id="langues">
+  <div class="container">
+    <h3>Langues</h3>
+    <article>
+      <p>Anglais (courant)</p>
+      <p>Suédois (bon niveau - Swedex B1)</p>
+      <p>Allemand (scolaire)</p>
+    </article>
+  </div>
+</section>
+
+<section id="interets">
+  <div class="container">
+    <h3>Centres d'intérêt</h3>
+    <article>
+      <p>Loisirs : tango argentin, cinéma, photo, peinture</p>
+      <p>Voyages itinérants, Wwoofing</p>
+    </article>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <h3>Contact et moi</h3>
+    <article>
+      <p>N'hésitez pas à m'envoyer un message. Promis, je réponds rapidement.</p>
+      <form action="message.php" method="post">
+        <p id="nom"><input type="text" name="nom" placeholder="Votre nom ici (obligatoire)" required></p>
+        <p id="prenom"><input type="text" name="prenom" placeholder="Votre prenom ici (obligatoire)" required></p>
+        <p id="email"><input type="email" name="email" placeholder="Votre email ici (obligatoire)" required></p>
+        <p id="sujet"><input type="text" name="sujet" placeholder="Sujet de votre message"></p>
+        <p><textarea name="message" rows="5" placeholder="Votre message ici"></textarea></p>
+        <p><input type="submit" value="Envoyer"></p>
+      </form>
+    </article>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container">
+    <div id="menu">
+      <ul>
+        <li><a href="#competences" title="Retour à mes compétences"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Compétences</a></li>
+        <li><a href="#experiences" title="Retour à mes expériences"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Expériences</a></li>
+        <li><a href="#formations" title="Retour à mes formations"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Formations</a></li>
+        <li><a href="#stages" title="Retour à mes stages"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Stages</a></li>
+        <li><a href="#langues" title="Retour à mes langues"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Langues</a></li>
+        <li><a href="#interets" title="Retour à mes centres d'intérêt"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Centres d'intérêt</a></li>
+        <li><a href="#contact" title="Retour à mon formulaire de contact"><i class="fa fa-angle-double-up" aria-hidden="true"></i> Contact</a></li>
+      </ul>
+    </div>
+
+    <div id="footer-coordonnees">
+      <p>Nicolas MOREAU</p>
+      <p>Téléphone : +33.6.75.56.94.61</p>
+      <p><a href="mailto:nicolasmoreau.meb@gmail.com" title="Bonne initiative ! N'hésitez pas cliquer ! :)"><i class="fa fa-envelope" aria-hidden="true">&nbsp;</i>nicolasmoreau.meb@gmail.com</a></p>
+    </div>
+
+    <div id="social-bottom">
+      <p>Si vous voulez bien me suivre ...</p>
+      <ul>
+        <li><a href="https://www.facebook.com/nicolasmoreaumeb" title="Accès à mon profil Facebook" target="_blank"><i class="fa fa-facebook">&nbsp;</i></a></li>
+        <li><a href="https://www.linkedin.com/in/nicolasmoreaumeb/" title="Accès à mon profil LinkedIn" target="_blank"><i class="fa fa-linkedin" aria-hidden="true">&nbsp;</i></a></li>
+        <li><a href="https://www.viadeo.com/p/00233nmnzehpx2r" title="Accès à mon profil Viadeo" target="_blank"><i class="fa fa-viadeo" aria-hidden="true">&nbsp;</i></a></li>
+        <li><a href="https://www.instagram.com/sicomore" title="Accès à mon profil Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></li>
+          <li><a href="https://twitter.com/nicomomeb" title="Accès à mon profil Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
